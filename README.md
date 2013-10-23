@@ -7,7 +7,7 @@ To use these examples:
 cd into the directory with the example files and type:
 
 ```
-python SimpleHTTPServer
+python -m SimpleHTTPServer
 
 Then point your web browser at
 
